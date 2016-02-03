@@ -1,0 +1,7 @@
+/* Agrega aqui tu CSS */
+div{
+	width: 220px;
+	height: 240px;
+	border:solid 2px #FF4000;
+	padding:10px ;
+	}
